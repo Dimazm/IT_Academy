@@ -21,6 +21,6 @@ public class Task01 {
         cargo = (args.length == 0) ? cargo : Integer.parseInt(args[0]);
         carryingCapacity = (args.length == 0) ? carryingCapacity : Integer.parseInt(args[1]);
         int result = cargo / carryingCapacity;
-       System.out.println(result);
+        System.out.println(result);
     }
 }
