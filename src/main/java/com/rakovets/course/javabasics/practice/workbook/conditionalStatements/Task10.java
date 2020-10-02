@@ -25,8 +25,6 @@ public class Task10 {
         } else {
             System.out.println("Ты-ДыЩЩЩЩ");
         }
-
-
     }
 }
 
