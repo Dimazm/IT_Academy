@@ -23,9 +23,7 @@ public class Task09 {
       else {
           System.out.println("Check input parameters");
       }
-
     }
-
 
     static boolean isNeedToChangeMonth(int day, int month, boolean leap) {
         if (month == 4 || month == 6 || month == 9 || month == 11) {
@@ -47,7 +45,6 @@ public class Task09 {
             return false;
         } else return year % 4 == 0;
     }
-
     static boolean isHappyNewYear(int day, int moth){
         return moth == 12 && day == 31;
     }
