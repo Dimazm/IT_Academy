@@ -1,3 +1,3 @@
 
 ||Полезные ссылки||
-||https://wiki.dmitryrakovets.com/#/||
+||https://wiki.dmitryrakovets.com/#/
