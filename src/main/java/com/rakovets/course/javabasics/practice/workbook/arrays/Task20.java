@@ -8,10 +8,7 @@ public class Task20 {
         for (int i = 0; i < newArray.length; i++) {
             int n = (i + 12) * 4;
             newArray[i] = n;
-            //  System.out.println("Number of element = " + i + " value is " + newArray[i]);
         }
-
-        // System.out.println(Arrays.toString(newArray));
         newArray [4] = 100;
         int maxElement = newArray[0];
         for (int i = 0; i < 10; i++) {
