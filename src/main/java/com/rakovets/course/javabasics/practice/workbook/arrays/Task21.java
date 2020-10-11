@@ -4,7 +4,7 @@ import java.io.OutputStream;
 
 public class Task21 {
     public static void main(String[] args) {
-        int newArray[] = {23, 6, 3, 133, 40, 30, 30, 1, 9, 10};
+        int newArray[] = {23, 6, 133, 133, 40, 30, 30, 2, 2, 10};
         int minArrayValue = newArray[0];
         int minArrayIndex = 0;
         int maxArrayValue = newArray[0];
